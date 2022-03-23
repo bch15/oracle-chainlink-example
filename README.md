@@ -1,4 +1,4 @@
-# oracle-chainlink-example
+# Example contract using chainlink's oracle
 Integrate with Chainlink to securely use an oracle and get off chain data to a smart contract.
 
 ## Summary
